@@ -1,4 +1,4 @@
-<a href="https://github.com/Luk4x/github-profile-background-photo" alt="luk4x gif repository">
+<a href=""  repository">
   <img align="left" width="100%" alt="about" src="./img-bg2.jpg"/>
 </a>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
