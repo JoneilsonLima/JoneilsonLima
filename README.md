@@ -16,7 +16,7 @@
 </table>
 
 <ul align="left">
-    <li>🤩️ Amo Tecnologia, Psicologia, Animes, Séries e Ler./li>
+    <li>🤩️ Amo Tecnologia, Psicologia, Animes, Séries e Ler.</li>
     <li>💻 Estudo na UFMA, mas também me matenho sempre atualizado com cursos da <a href="https://www.alura.com.br/" target="_blank">Alura<a/> e <a href="https://www.udemy.com/" target="_blank">Udemy<a/>.</li>
     <li>🔮 Estou me especializando em Front-end</li>
     <li>🚀 Evoluindo exponencialmente em <strong>Angular</strong> e em seu ecossistema.</li>
