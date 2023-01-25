@@ -1,6 +1,4 @@
-<a href="">
-  <img align="left" width="100%" alt="about" src="./img-bg2.jpg"/>
-</a>
+<img align="left" width="100%" alt="about" src="./img-bg2.jpg"/>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
