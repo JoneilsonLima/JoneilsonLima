@@ -124,9 +124,7 @@
     <br/>
     <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=JoneilsonLima&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=JoneilsonLima%20Contribution%20Graph&cache_seconds=7200" />
     <br/><br/>
-    <div align="left">
     <img align="left" height="415px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=joneilsonlima&langs_count=8&theme=tokyonight&hide_border=true&custom_title=JoneilsonLima%20Top%20Langs&cache_seconds=7200" />
-    </div>
     <div align="right">
       <img height="203px" src="https://luk4x-github-readme-stats.vercel.app/api?username=joneilsonlima&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=joneilsonlima%20Github%20Stats&cache_seconds=7200" />
       <img height="203px" src="https://streak-stats.demolab.com?user=joneilsonlima&theme=tokyonight&hide_border=true&cache_seconds=7200" />
