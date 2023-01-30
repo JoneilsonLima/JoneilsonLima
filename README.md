@@ -140,3 +140,27 @@
 <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=F7DF1E" alt="portfolio">
 </a>
+  
+  
+  
+
+
+<h2 align="center">
+  <details open>
+    <summary>📈 &ensp; <i>Ａｔｉｖｉｄａｄｅ</i></summary>
+    <br/>
+    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Luk4x&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Luk4x%20Contribution%20Graph&cache_seconds=7200" />
+    <br/><br/>
+    <img align="left" height="415px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Luk4x%20Top%20Langs&cache_seconds=7200" />
+    <div align="right">
+      <img height="203px" src="https://luk4x-github-readme-stats.vercel.app/api?username=Luk4x&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Luk4x%20Github%20Stats&cache_seconds=7200" />
+      <img height="203px" src="https://streak-stats.demolab.com?user=Luk4x&theme=tokyonight&hide_border=true&cache_seconds=7200" />
+    </div>
+    <br/>
+    <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=7200&api_domain=wakapi.dev&custom_title=Luk4x%20Coding%20Time" />
+  </details>
+<br>
+
+<img src="https://user-images.githubusercontent.com/86276393/202559929-a3048637-3de9-4b82-a61e-537a32de50fe.jpg" alt="waifu" height="40px" />
+<img src="https://img.shields.io/github/license/Luk4x/Luk4x?style=for-the-badge&logo=unlicense&logoColor=BF91F3&color=70A5FD" alt="luk4x repo license" height="40px" />
+
