@@ -157,8 +157,7 @@
       <img height="203px" src="https://streak-stats.demolab.com?user=Luk4x&theme=tokyonight&hide_border=true&cache_seconds=7200" />
     </div>
     <br/>
-    <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=7200&api_domain=wakapi.dev&custom_title=Luk4x%20Coding%20Time" />
-  </details>
+<img align="center" src="./PPy.gif" />
 <br>
 
 <img src="https://user-images.githubusercontent.com/86276393/202559929-a3048637-3de9-4b82-a61e-537a32de50fe.jpg" alt="waifu" height="40px" />
