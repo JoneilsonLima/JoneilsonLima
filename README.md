@@ -1,5 +1,5 @@
 <img align="left" width="100%" alt="about" src="./img-bg2.jpg"/>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
 <img align="right" src="./img-bg.jpg" width="370px" height="230px" alt="anime chilling">
