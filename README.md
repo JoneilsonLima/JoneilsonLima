@@ -132,6 +132,7 @@
       <img height="203px" src="https://streak-stats.demolab.com?user=joneilsonlima&theme=tokyonight&hide_border=true&cache_seconds=7200" />
     </div>
     <br/>
+        <img align="center" src="./PPy.gif" />
   </details>
 <br>
 
@@ -141,20 +142,3 @@
 <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=F7DF1E" alt="portfolio">
 </a>
-
-
-
-
-     
-   
-   
-   
-   
-   
-   
-   
-   
-   
-
-
-
