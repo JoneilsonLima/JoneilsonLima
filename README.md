@@ -1,8 +1,8 @@
-<img align="left" width="100%" alt="about" src="./img-bg2.jpg"/>
+<img align="left" width="100%" alt="about" src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif"/>
 <br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
-<img align="right" src="./img-bg.jpg" width="370px" height="230px" alt="anime chilling">
+<img align="right" src="https://i.pinimg.com/originals/44/df/43/44df43c9d956bc574a44705099d2a69c.gif" width="370px" height="230px" alt="anime chilling">
 <table align="center">
   <tr>
     <td>
@@ -124,13 +124,35 @@
     <br/>
     <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=JoneilsonLima&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=JoneilsonLima%20Contribution%20Graph&cache_seconds=7200" />
     <br/><br/>
-<div align="center">
-  <a href="https://github.com/JoneilsonLima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoneilsonLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoneilsonLima&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+    <img align="left" height="415px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=joneilsonlima&langs_count=8&theme=tokyonight&hide_border=true&custom_title=JoneilsonLima%20Top%20Langs&cache_seconds=7200" />
+    <div align="right">
+      <img height="203px" src="https://luk4x-github-readme-stats.vercel.app/api?username=joneilsonlima&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=joneilsonlima%20Github%20Stats&cache_seconds=7200" />
+      <img height="203px" src="https://streak-stats.demolab.com?user=joneilsonlima&theme=tokyonight&hide_border=true&cache_seconds=7200" />
+    </div>
+    <br/>
+  </details>
 <br>
 
 <img src="https://user-images.githubusercontent.com/86276393/202559929-a3048637-3de9-4b82-a61e-537a32de50fe.jpg" alt="waifu" height="40px" />
 <img src="https://img.shields.io/github/license/Luk4x/Luk4x?style=for-the-badge&logo=unlicense&logoColor=BF91F3&color=70A5FD" alt="luk4x repo license" height="40px" />
+
+<a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=F7DF1E" alt="portfolio">
+</a>
+
+
+
+
+     
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+
 
