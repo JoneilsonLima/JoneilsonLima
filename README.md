@@ -3,6 +3,7 @@
 
 <h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
 <img align="right" src="https://i.pinimg.com/originals/44/df/43/44df43c9d956bc574a44705099d2a69c.gif" width="370px" height="230px" alt="anime chilling">
+<br><br>
 <table align="center">
   <tr>
     <td>
