@@ -128,9 +128,8 @@
     <div align="right">
       <img height="203px" src="https://luk4x-github-readme-stats.vercel.app/api?username=joneilsonlima&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=joneilsonlima%20Github%20Stats&cache_seconds=7200" />
       <img height="203px" src="https://streak-stats.demolab.com?user=joneilsonlima&theme=tokyonight&hide_border=true&cache_seconds=7200" />
-    </div>
-    <br/>
-<img align="center" src="./PPy.gif" />
+ </div>
+<br/>
 <br>
 
 <img src="https://user-images.githubusercontent.com/86276393/202559929-a3048637-3de9-4b82-a61e-537a32de50fe.jpg" alt="waifu" height="40px" />
