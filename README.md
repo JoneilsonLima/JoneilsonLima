@@ -48,6 +48,22 @@
         </b>
       </sub>
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="Bootstrap icon"/><br>
+      <sub>
+        <b>
+          <pre>ReactJs</pre>
+        </b>
+      </sub>
+    </td>
+        <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Bootstrap icon"/><br>
+      <sub>
+        <b>
+          <pre>Tailwind</pre>
+        </b>
+      </sub>
+    </td>
   </tr>
 
   <tr>
@@ -98,6 +114,22 @@
       <sub>
         <b>
           <pre>VSCode</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="visual studio code icon"/><br>
+      <sub>
+        <b>
+          <pre>Sass</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=rxjs" width="65px" alt="visual studio code icon"/><br>
+      <sub>
+        <b>
+          <pre>RxJs</pre>
         </b>
       </sub>
     </td>
