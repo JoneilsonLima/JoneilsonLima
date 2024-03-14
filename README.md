@@ -133,6 +133,22 @@
         </b>
       </sub>
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="visual studio code icon"/><br>
+      <sub>
+        <b>
+          <pre>Java</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="visual studio code icon"/><br>
+      <sub>
+        <b>
+          <pre>Spring Boot</pre>
+        </b>
+      </sub>
+    </td>
 
   </tr>
 </table>
