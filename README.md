@@ -153,3 +153,34 @@
   </tr>
 </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
+<img align="left" width="185px" src="./images/oh-ok.gif" alt="anime coding">
+<br><br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/joneilson-pereira-92b378161/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge">
+  </a>
+</p>
+<br>
+<br>
+<h2 align="center">
+  <details open>
+    <summary>📈 &ensp; <i>Ａｔｉｖｉｄａｄｅ</i></summary>
+    <br/>
+    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=joneilsonlima&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=joneilsonlima%20Contribution%20Graph&cache_seconds=7200" />
+    <br/><br/>
+    <img align="left" height="400px" width="300px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=joneilsonlima&langs_count=8&theme=tokyonight&hide_border=true&custom_title=joneilsonlima%20Top%20Langs&cache_seconds=7200" />
+    <div align="right">
+      <img height="203px" src="https://luk4x-github-readme-stats.vercel.app/api?username=joneilsonlima&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=joneilsonlima%20Github%20Stats&cache_seconds=7200" />
+      <img height="203px" src="https://streak-stats.demolab.com?user=joneilsonlima&theme=tokyonight&hide_border=true&cache_seconds=7200" />
+ </div>
+<br/>
+<br>
+
+<img src="https://user-images.githubusercontent.com/86276393/202559929-a3048637-3de9-4b82-a61e-537a32de50fe.jpg" alt="waifu" height="40px" />
+<img src="https://img.shields.io/github/license/Luk4x/Luk4x?style=for-the-badge&logo=unlicense&logoColor=BF91F3&color=70A5FD" alt="luk4x repo license" height="40px" />
+<a href="https://portfolio-joneilson.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=F7DF1E" alt="portfolio">
+</a>
+
