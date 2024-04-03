@@ -158,7 +158,7 @@
 <img align="left" width="185px" src="./images/oh-ok.gif" alt="anime coding">
 <br><br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/joneilson-pereira-92b378161/" target="_blank">
+  <a href="https://www.linkedin.com/in/joneilson-pereira/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge">
   </a>
 </p>
@@ -180,7 +180,5 @@
 
 <img src="https://user-images.githubusercontent.com/86276393/202559929-a3048637-3de9-4b82-a61e-537a32de50fe.jpg" alt="waifu" height="40px" />
 <img src="https://img.shields.io/github/license/Luk4x/Luk4x?style=for-the-badge&logo=unlicense&logoColor=BF91F3&color=70A5FD" alt="luk4x repo license" height="40px" />
-<a href="https://portfolio-joneilson.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=F7DF1E" alt="portfolio">
-</a>
+
 
