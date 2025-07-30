@@ -13,9 +13,8 @@
 </table>
 
 <ul align="left">
-    <li>🤩️ Tecnologia: Java, Spring Boot, Angular, ecossistema Front-end</li>
+    <li>💻 Tecnologia: Java, Spring Boot, Angular</li>
     <li>📚 Formação Acadêmica: Estudante de Ciência da Computação na UFMA</li>
-    <li>🎓 Educação Continuada: Cursos na <a href="https://www.alura.com.br/" target="_blank">Alura<a/> e <a href="https://www.udemy.com/" target="_blank">Udemy<a/> para aprimoramento profissional</li>
     <li>🔮 Interesses: Tecnologia, Psicologia, Animes, Séries e Literatura</li>
 </ul>
 <br>
